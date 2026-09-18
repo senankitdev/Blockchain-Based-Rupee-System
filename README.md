@@ -358,73 +358,32 @@ mvn clean test
 
 ### 3. User Login & Wallet Balance Inspection
 *Logging in as an authenticated user and inspecting the available Digital Rupee balance.*
-```markdown
+
 ![User Wallet Inspection](screenshots/03_user_wallet.png)
-```
-*(Paste Screenshot Here)*
 
 ---
 
 ### 4. Transferring Digital Rupees
 *Sending Digital Rupees from Sender to Receiver, staging the transaction with `PENDING` status.*
-```markdown
+
 ![Transfer Transaction](screenshots/04_transfer_rupees.png)
-```
-*(Paste Screenshot Here)*
+
 
 ---
 
-### 5. Admin Portal: Pending Transactions Memory Pool
-*Inspecting all incoming unconfirmed transactions awaiting cryptographic block sealing.*
-```markdown
-![Pending Transactions](screenshots/05_pending_pool.png)
-```
-*(Paste Screenshot Here)*
-
----
-
-### 6. Proof-of-Work Block Mining Execution
+### 5. Proof-of-Work Block Mining Execution
 *Executing Proof-of-Work to find the golden nonce matching difficulty requirement `000...`.*
-```markdown
-![Mining Execution](screenshots/06_mining_execution.png)
-```
-*(Paste Screenshot Here)*
+
+![Mining Execution](screenshots/05_mining_execution.png)
 
 ---
 
-### 7. Blockchain Inspection & Ledger Explorer
+### 6. Blockchain Inspection & Ledger Explorer
 *Viewing the completed blockchain blocks showing Index, Timestamp, Nonce, Previous Hash, and Current Hash.*
-```markdown
-![Blockchain Ledger](screenshots/07_blockchain_view.png)
-```
-*(Paste Screenshot Here)*
 
----
+![Blockchain Ledger](screenshots/06_blockchain_view.png)
 
-### 8. Full Blockchain Integrity Validation
-*Running complete hash recalculation and link integrity checks across all committed blocks.*
-```markdown
-![Blockchain Validation](screenshots/08_blockchain_validation.png)
-```
-*(Paste Screenshot Here)*
 
----
-
-### 9. Tamper Simulation & Immediate Anomaly Detection
-*Demonstrating deliberate manipulation of a transaction amount and how the validation engine flags the corrupt block.*
-```markdown
-![Tampering Detection](screenshots/09_tamper_detection.png)
-```
-*(Paste Screenshot Here)*
-
----
-
-### 10. Automated JUnit Test Suite Execution
-*Running `mvn clean test` showing all 20 tests successfully executing and passing.*
-```markdown
-![Test Execution](screenshots/10_junit_tests.png)
-```
-*(Paste Screenshot Here)*
 
 ---
 
