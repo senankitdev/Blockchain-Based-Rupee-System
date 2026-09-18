@@ -6,7 +6,7 @@
 [![Testing](https://img.shields.io/badge/Tests-JUnit%205-25A162.svg)](https://junit.org/junit5/)
 [![Cryptography](https://img.shields.io/badge/Security-SHA--256-blueviolet.svg)](https://en.wikipedia.org/wiki/SHA-2)
 
-A robust, full-featured academic simulation of a **Blockchain-Based Digital Rupee (e-Rupee / CBDC) Transaction Ledger**. This system combines cryptographic hashing, distributed-style proof-of-work (PoW) consensus, persistent relational storage, and real-time tampering detection into a clean, modular Java architecture.
+A robust, full-featured academic simulation of a **Blockchain-Based Digital Rupee Transaction Ledger**. This system combines cryptographic hashing, distributed-style proof-of-work (PoW) consensus, persistent relational storage, and real-time tampering detection into a clean, modular Java architecture.
 
 > **Disclaimer:** This software is developed strictly for academic and educational purposes (VITyarthi Project). It operates entirely as a local simulation—no real currency or financial institutions are involved.
 
