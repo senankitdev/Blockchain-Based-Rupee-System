@@ -411,5 +411,6 @@ mvn clean test
 
 ## Author & Acknowledgements
 - **Student Name:** Ankit Sen
-- **Institution:** VITyarthi / VIT
+- **Registration Number:** 25BAI10915
+- **Institution:** VIT Bhopal
 - **Project Name:** Blockchain-Based Rupee Transaction System
