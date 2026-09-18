@@ -339,23 +339,20 @@ mvn clean test
 
 ## 12. Visual Demonstrations & Screenshots
 
-> **Note:** Save your application screenshots inside the `screenshots/` directory using the filenames referenced below.
 
 ### 1. Main Welcome Screen & Menu
 *Displaying the application banner, system options (User Login, Registration, Admin Login, Exit).*
-```markdown
+
 ![Main Welcome Menu](screenshots/01_main_menu.png)
-```
-*(Paste Screenshot Here)*
+
 
 ---
 
 ### 2. User Registration & Wallet Allocation
 *Registering a new citizen account and automatically provisioning a unique Wallet ID.*
-```markdown
+
 ![User Registration](screenshots/02_user_registration.png)
-```
-*(Paste Screenshot Here)*
+
 
 ---
 
