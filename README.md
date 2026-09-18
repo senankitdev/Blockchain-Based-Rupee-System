@@ -25,8 +25,8 @@ Use the following pre-configured credentials to log in:
 | Portal / Role | User ID / Username | Password | Role & Permissions |
 | :--- | :--- | :--- | :--- |
 | **🛡️ Admin Portal** | `admin` | `admin123` | Mine pending transactions, validate blockchain integrity, simulate tampering, export backups |
-| **👤 User Account 1** | `U1001` | `alice123` | Pre-seeded user with initial test balance (`₹1,000.00`) |
-| **👤 User Account 2** | `U1002` | `bob123` | Pre-seeded user with initial test balance (`₹500.00`) for P2P transfers |
+| **👤 User Account 1** | `U1001` | `alice123` | Pre-seeded user with initial test balance for P2P transfers |
+| **👤 User Account 2** | `U1002` | `bob123` | Pre-seeded user with initial test balance for P2P transfers |
 
 > 💡 **Tip:** You can also register new citizen accounts dynamically with auto-generated Wallet IDs directly via **Main Menu Option 2**.
 
